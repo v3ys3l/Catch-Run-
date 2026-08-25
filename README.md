@@ -28,10 +28,6 @@
   <img src="lobby_ready.png" width="31%" alt="Lobby Room"/>
 </p>
 
-<p align="center">
-  <img src="Assets/EndPahe.png" width="80%" alt="Match Summary Screen"/>
-</p>
-
 ---
 
 ## 🌟 Key Technical Features

@@ -14,18 +14,18 @@
 
 ### 🎮 Gameplay & Interactive Mechanics
 <p align="center">
-  <img src="Assets/gameplay_chase.png" width="48%" alt="Gameplay Chase"/>
-  <img src="Assets/gameplay_interaction.png" width="48%" alt="Gameplay Item Interaction"/>
+  <img src="gameplay_chase.png" width="48%" alt="Gameplay Chase"/>
+  <img src="gameplay_interaction.png" width="48%" alt="Gameplay Item Interaction"/>
 </p>
 <p align="center">
-  <img src="Assets/gameplay_arena.png" width="97%" alt="Gameplay Arena Overview"/>
+  <img src="gameplay_arena.png" width="97%" alt="Gameplay Arena Overview"/>
 </p>
 
 ### 🌐 Menu, Matchmaking & Lobby Flow
 <p align="center">
-  <img src="Assets/menu.png" width="31%" alt="Main Menu"/>
-  <img src="Assets/server_browser.png" width="31%" alt="LAN Server Discovery"/>
-  <img src="Assets/lobby_ready.png" width="31%" alt="Lobby Room"/>
+  <img src="menu.png" width="31%" alt="Main Menu"/>
+  <img src="server_browser.png" width="31%" alt="LAN Server Discovery"/>
+  <img src="lobby_ready.png" width="31%" alt="Lobby Room"/>
 </p>
 
 <p align="center">
